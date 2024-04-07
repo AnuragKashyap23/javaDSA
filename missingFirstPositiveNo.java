@@ -1,3 +1,10 @@
+//user will have to input a string of number comprises of spaces between them. Then you have to convert this string into array of integers
+// and find the first missing positive number
+//Example: Input: 1 2 3 5 
+//Output: 4
+//Input: -1 3 1 5
+// Output: 2
+
 import java.util.*;
 
 public class missingFirstPositiveNo {
