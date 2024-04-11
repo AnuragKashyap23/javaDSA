@@ -1,3 +1,8 @@
+// In this program, user enters a string which is a combination of letters and numbers, and 
+// converts this into another string in which letters and numbers are sparated and arranged.
+// examples:
+// Input:abc3kjg45gg82
+// Output: abckjggg34582
 
 import java.util.Scanner;
 public class stringReversal {
